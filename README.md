@@ -1,4 +1,4 @@
-# DNSTwist-Application
+# DNSTwister-Application
 Scripts aimed at making a CTI analyst's life easier!
 # DNS Twister Scraper
 
@@ -14,7 +14,7 @@ A Python application to scrape data from the DNS Twister website and save it as 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/michaelricci/dnstwist-application.git
+    git clone https://github.com/michaelricci/dnstwister-application.git
     cd dns-twister-scraper
     ```
 
@@ -37,6 +37,7 @@ A Python application to scrape data from the DNS Twister website and save it as 
     ```
 
 2. Enter the domains (comma-separated) in the input field and click "Submit".
+3. Save the returned data to a csv file.
 
 ## Contributing
 
