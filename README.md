@@ -14,7 +14,7 @@ A Python application to scrape data from the DNS Twister website and save it as 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/dns-twister-scraper.git
+    git clone https://github.com/michaelricci/dns-twister-scraper.git
     cd dns-twister-scraper
     ```
 
