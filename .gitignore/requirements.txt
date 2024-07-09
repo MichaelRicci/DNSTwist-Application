@@ -1,0 +1,6 @@
+pandas
+tkinter
+selenium
+pyinstaller
+threading
+json
